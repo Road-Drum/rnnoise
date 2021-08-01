@@ -1,0 +1,11 @@
+Source: rnnoise
+Maintainer: Haziq Hadi <haziqsembilanlima@gmail.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 9)
+
+Package: rnnoise
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Recurrent neural network for audio noise reduction

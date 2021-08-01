@@ -1,0 +1,5 @@
+rnnoise (0.0.0-1) UNRELEASED; urgency=low
+
+  * Initial debian package build
+
+ -- Haziq Hadi <haziqsembilanlima@gmail.com>  Thu, 29 Jul 2021 08:52:09 +0800
